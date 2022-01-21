@@ -1,0 +1,210 @@
+body{
+background-image: linear-gradient(to right,#ff1010a2,#0a6b27, #1717ffb6);
+max-width: 1000px;
+ font-weight: 300;
+ box-sizing: border-box;
+ max-width: 1000px;
+ margin: 0 auto;
+ font-family: 'Bebas Neue', cursive;
+ 
+}
+
+.imgc{
+    width: 400px;
+    display: block;
+    margin: 0 auto;
+}
+
+header{
+
+    margin:10px;
+  
+}
+
+header ul{
+    list-style: none;
+    padding: 0;
+    background-image: linear-gradient(red,white,red);
+    width: 65%;
+    margin: auto;
+}
+
+.menu li a{
+    text-decoration: none;
+    color: black;
+    padding: 20px;
+    display: block;
+    transition: all 1.5s;
+}
+
+.menu li{
+    display: inline-block;
+    text-align: center;    
+}
+
+.menu li a:hover{
+    color: #f5f5fa;
+    background-color: #0b0b0c;
+}
+
+nav{
+    padding: 10px 10px 20px 10px;
+    text-align: center;
+    font-size: 20px; 
+}
+
+.primeraimg{
+    width: 500px;
+    height: 300px;
+    display: block;
+    margin: 0 auto;
+    border-radius: 5px;
+    border: solid 3px;
+}
+h1{
+    color: white;
+    font-size: 50px;
+    border: black 10px solid;
+    text-align: center;
+    height: 30%;
+    width: 60%;
+    margin: 20px 0px 10px 200px;
+}
+
+.mensaje{
+    text-align: center;
+    font-size: 45px;
+}
+
+h2{
+    font-size: 35px;
+}
+
+h3{
+    font-size: 33px;
+}
+
+.imgreceta{
+    width: 500px;
+    height: 300px;
+    display: block;
+    margin: 0 auto;
+    border-radius: 5px;
+    border: solid 3px;
+}
+
+section ul li{
+    font-size: 25px;
+}
+
+p{
+    font-size: 30px;
+}
+
+footer{
+    background-color: black;
+    border-radius: 10px;
+    color: white;
+    max-width: 100%;
+    margin: 100px 0px 0px 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+.container-footer-all{
+    width: 100%;
+    max-width: 1200px;
+    margin: auto;
+}
+
+.container-body{
+    display: flex;
+}
+
+.sobre-nosotros{
+   width: 400px;
+}
+
+.sobre-nosotros h2{
+    font-size: 20px;
+}
+.sobre-nosotros p{
+    font-size: 20px;
+    color: #c7c7c7;
+    margin-top: 20px;
+}
+
+.redes-sociales{
+    width: 400px;
+}
+
+.redes-sociales h2{
+     font-size: 22px;
+}
+
+.redes-sociales ul li{
+    margin-top: 22px;
+    margin-left: 10px;
+    list-style: none;
+    display: inline-block;
+}
+.redes-sociales ul li span{
+    font-size: 30px;
+}
+
+.redes-sociales ul li a{
+    text-decoration: none;
+    color: white;
+    padding: 10px;
+    display: inline-block;
+    transition: all 1.5s;
+
+}
+
+.redes-sociales ul li a:hover{
+    color: blue;
+    background-color: white;
+
+}
+
+
+.logo-footer{
+    width: 150px;
+    height: 150px;
+    display: block;
+margin: 10px 50px 10px 65px;
+}
+
+.contacto{
+    width: 400px;
+}
+
+.contacto h2{
+    font-size: 20px;
+    margin-left: 45px;
+}
+
+.contacto ul li{
+    font-size: 20px;
+    color: #c7c7c7;
+    margin-top: 20px;
+    margin-right:30px ;
+}
+.contacto ul li{
+    margin-top: 22px;
+    margin-left: 10px;
+    list-style: none;
+}
+.container-footer{
+    width: 480px;
+    padding: 5px 5px 5px 5px;
+    border-top: white solid 4px;
+    border-right: white solid 4px;
+}
+
+
+
+
+
+
